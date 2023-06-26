@@ -1,0 +1,21 @@
+#titulo-importante{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.sub-titulo{
+    background-color: rgb(255, 238, 0);
+}
+
+section{
+    background-color: darkgreen;
+}
+
+.titulo-secao{
+    color: aliceblue;
+}
+
+.titulo-pouco-importante{
+    background-color: black;
+    color: aliceblue;
+}
